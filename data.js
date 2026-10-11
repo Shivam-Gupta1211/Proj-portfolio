@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Shivam Gupta",
+  firstName: "Shivam",   // Used in the hero greeting
+  lastName: "Gupta",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -22,15 +22,15 @@ const portfolioData = {
   // 📖 ABOUT ME
   // ----------------------------------------------------------
   about: {
-    description: `I'm a Second Year Engineering student passionate about building 
+    description: `I'm a Third Year Engineering student passionate about building 
 things that live on the internet. I love exploring new technologies, 
 writing clean code, and turning ideas into real-world projects. 
 When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     highlights: [
-      { label: "Location", value: "Pune, India" },
-      { label: "University", value: "Savitribai Phule Pune University" },
-      { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
-      { label: "Year", value: "Second Year (SE)" },
+      { label: "Location", value: "Indore, India" },
+      { label: "University", value: "Medi-Caps University" },
+      { label: "Branch", value: "computer sceince and engineering (Artificial Intelligence)" },
+      { label: "Year", value: "Third Year (TD)" },
     ],
   },
 
@@ -99,22 +99,22 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // ----------------------------------------------------------
   education: [
     {
-      degree: "B.E. in Artificial Intelligence and Machine Learning",
-      institution: "Savitribai Phule Pune University",
+      degree: "B.tech. in Artificial Intelligence",
+      institution: "Medi-Caps University",
       duration: "2024 – 2028",
-      description: "Currently in Second Year. CGPA: 8.5 / 10",
+      description: "Currently in ThirdYear. CGPA: 7.8 / 10",
     },
     {
       degree: "HSC (12th Grade)",
-      institution: "ABC Junior College, Pune",
+      institution: "Maharsi public high secondery school, Zirapur",
       duration: "2022 – 2024",
-      description: "Science stream with Computer Science. Scored 89%.",
+      description: "Science stream . Scored 70%.",
     },
     {
       degree: "SSC (10th Grade)",
-      institution: "XYZ High School, Pune",
+      institution: "Advanced Kids Academy, Zirapur",
       duration: "2022",
-      description: "Scored 92% with distinction.",
+      description: "Scored 70% with",
     },
   ],
 
@@ -125,26 +125,26 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   //                      email, codepen, devto, medium, youtube
   // Use the "icon" field to choose the SVG icon displayed.
   contact: {
-    email: "chinmayingle26@gmail.com",
+    email: "sg263122@gmail.com",
     socialLinks: [
       {
         platform: "GitHub",
-        url: "https://github.com/chinmayingle26",
+        url: "https://github.com/Shivam-Gupta1211",
         icon: "github",
       },
       {
         platform: "LinkedIn",
-        url: "https://linkedin.com/in/chinmayingle",
+        url: "www.linkedin.com/in/shivam-gupta-5a590b338",
         icon: "linkedin",
       },
       {
         platform: "Twitter",
-        url: "https://twitter.com/chinmayingle",
+        url: "https://x.com/ShivamGupt50755",
         icon: "twitter",
       },
       {
         platform: "Instagram",
-        url: "https://instagram.com/chinmayingle",
+        url: "https://www.instagram.com/xrn._shivamg/",
         icon: "instagram",
       },
     ],
